@@ -13,7 +13,7 @@ jobs:
         uses: c-hive/gha-yarn-cache@v1
 
       - name: Install dependencies
-        run: yarn
+        run: CXXFLAGS="--std=c++17" yarn install
 
       - name: Build React App
         run: yarn build
