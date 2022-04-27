@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://Subtawee14.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://Subtawee14.github.io/task-management-frontend/static/js/main.e87b687d.chunk.js",
-    "main.js.map": "https://Subtawee14.github.io/task-management-frontend/static/js/main.e87b687d.chunk.js.map",
-    "runtime~main.js": "https://Subtawee14.github.io/task-management-frontend/static/js/runtime~main.53922a27.js",
-    "runtime~main.js.map": "https://Subtawee14.github.io/task-management-frontend/static/js/runtime~main.53922a27.js.map",
-    "static/js/2.15c8fa49.chunk.js": "https://Subtawee14.github.io/task-management-frontend/static/js/2.15c8fa49.chunk.js",
-    "static/js/2.15c8fa49.chunk.js.map": "https://Subtawee14.github.io/task-management-frontend/static/js/2.15c8fa49.chunk.js.map",
-    "index.html": "https://Subtawee14.github.io/task-management-frontend/index.html",
-    "precache-manifest.6c9c3b349f557e25b8d45e64326531bd.js": "https://Subtawee14.github.io/task-management-frontend/precache-manifest.6c9c3b349f557e25b8d45e64326531bd.js",
-    "service-worker.js": "https://Subtawee14.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://Subtawee14.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://subtawee14.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://subtawee14.github.io/task-management-frontend/static/js/main.c984b903.chunk.js",
+    "main.js.map": "https://subtawee14.github.io/task-management-frontend/static/js/main.c984b903.chunk.js.map",
+    "runtime~main.js": "https://subtawee14.github.io/task-management-frontend/static/js/runtime~main.a10be951.js",
+    "runtime~main.js.map": "https://subtawee14.github.io/task-management-frontend/static/js/runtime~main.a10be951.js.map",
+    "static/js/2.54bdb8fa.chunk.js": "https://subtawee14.github.io/task-management-frontend/static/js/2.54bdb8fa.chunk.js",
+    "static/js/2.54bdb8fa.chunk.js.map": "https://subtawee14.github.io/task-management-frontend/static/js/2.54bdb8fa.chunk.js.map",
+    "index.html": "https://subtawee14.github.io/task-management-frontend/index.html",
+    "precache-manifest.311cdb10169c65c69f04852dc4e22009.js": "https://subtawee14.github.io/task-management-frontend/precache-manifest.311cdb10169c65c69f04852dc4e22009.js",
+    "service-worker.js": "https://subtawee14.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://subtawee14.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
